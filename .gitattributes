@@ -1,2 +1,31 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Building things is fun!</h1>
+    <h2>Utálom az összes buzit akivel dologozok!</h2>
+    <div class="keret"><p>A legtöbb munkatársam egy életképtelen <strong>faszkalap</strong>.<br> <i>Ha valamelyikkel szóba kell állnom,
+            legszívesebben szétbasznám a hülye fejét.</i></p></div>
+    <ul>
+            <li>Vannak köcsögök</li>
+            <li>Nyomorultak</li>
+            <li>Idegesítő faszládák</li>
+        <ol>
+            <li>Főnököm</li>
+            <li>Minden más paraszt</li>
+        </ol>
+    </ul>
+    <img src="https://media.giphy.com/media/f5vXCvhSJsZxu/giphy.gif">
+</body>
+
+</html>
